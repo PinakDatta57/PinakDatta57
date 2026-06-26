@@ -1,130 +1,106 @@
+<div align="center">
 
 <!-- Banner -->
-<p align="center">
-  <img src="PinakDattaBanner.png" style="width: 100%;" alt="Pinak Datta GitHub Banner">
-</p>
+<img src="PinakDattaBanner.png" style="width: 100%;" alt="Pinak Datta GitHub Banner" />
 
-<!-- Animated Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Pinak+Datta;Full-stack+MERN+Developer;Competitive+Programmer;Passionate+about+Clean+Code+and+UI/UX" alt="Typing SVG" />
-</p>
+<br/>
 
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pinak+Datta;Full-Stack+MERN+Developer;Competitive+Programmer;Clean+Code+%7C+Scalable+Apps+%7C+Great+UI%2FUX" alt="Typing SVG" />
 
+<br/><br/>
 
----
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pinak-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-datta-121639417/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinakdattatp@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pinak.datta.16547)
 
-### 👋 Hi there, I'm **Pinak Datta**
+![Profile Views](https://komarev.com/ghpvc/?username=PinakDatta57&color=00FFFF&style=flat-square&label=Profile+Views)
 
-I'm a **web developer** with expertise in **React, Express.js, MongoDB, and Firebase Authentication (MERN stack)**.  
-I focus on building **scalable** and **user‑friendly applications** with **clean code** and **responsive UI/UX**.  
-
-💡 Passionate about learning new technologies, exploring modern React libraries, and integrating AI into projects.  
-🚀 Experienced in **production‑level projects** like **e‑commerce platforms** and **internal dashboards**.  
-🏆 Background in **competitive programming**.  
-
-
-
+</div>
 
 ---
 
+## 👨‍💻 About Me
 
-### 📫 Reach Me Out
+I'm a **Full-Stack MERN Developer** who builds **scalable, production-grade web applications** with a strong focus on clean architecture and polished UI/UX.
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://pinak-portfolio.netlify.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-PinakDatta-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-datta-121639417/)
-[![Facebook Badge](https://img.shields.io/badge/-PinakDatta-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pinak.datta.16547)
-[![Gmail Badge](https://img.shields.io/badge/-pinakdattatp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pinakdattatp@gmail.com)
+- 🔭 Currently building a **Temple Management System** — full-stack platform for scheduling, donations & member records
+- 🌱 Exploring **Next.js** for SSR/SSG patterns and modern performance optimization
+- 💡 Passionate about integrating **AI** into real-world applications
+- 🏆 Background in **Competitive Programming** — algorithmic thinking drives how I solve engineering problems
+- 🚀 Shipped production-level projects including **e-commerce platforms** and **internal dashboards**
+- 📬 Reach me at **pinakdattatp@gmail.com** — I always reply
 
+---
 
+## 🛠️ Tech Stack
 
-📬 Feel free to contact me — I may be slow to respond, but I will surely reply.
+**Frontend**
 
-<!-- Wave Motion Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
---
+**Backend & Database**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinakDatta57&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PinakDatta57&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=PinakDatta57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 
+</div>
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinakDatta57&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
--- 
-
-
-
-
-
-## 🚀 Skill Set
-
-Here are the main technologies I use:
-
-
-**Libraries and Frameworks**
-
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|
-<img title="Express.js" alt="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">|
-<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|
-<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png">|
-<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
-
-
-**Tools**
-
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|
-<img title="GitHub" alt="GitHub" width="40px" src="https://img.icons8.com/material-rounded/48/4A90E2/github.png">|
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-
-
-**Programming Languages**
-
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|
-<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
-<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|
-<img title="CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
-
-
-**Databases**
-
-<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
-
-
-
-<br>
-
+</div>
 
 ---
 
-<!-- Animated Skill Icons Row -->
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,html,js,python,cpp,vscode,github,git" />
-</p> -->
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 🛕 Temple Management System | Scheduling, donations & member management platform | React · Node.js · MongoDB | 🚧 In Progress |
+| 🛒 E-Commerce Platform | Full-featured online store with auth & payments | MERN · Firebase Auth | ✅ Production |
+| 📊 Internal Dashboard | Data visualization & management dashboard | React · Express · MongoDB | ✅ Production |
 
 ---
 
-<!-- Wave Motion Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,0057FF&height=120&section=footer" />
 
----
+*"Good code is its own best documentation."*
 
-  
-## Currently
-- Making **websites and full‑stack applications** using **React, Express.js, Node.js, MongoDB, Firebase, Tailwind CSS, HTML, JavaScript, Python, and C++**
-- Exploring **React libraries and frameworks** like **Next.js** to build modern, scalable apps
-- I am exploring **Next.js**.
-- I’m working on a **Temple Management** website.
-- Building and refining **production‑level projects** for better **UI/UX** and **performance**
+</div>
