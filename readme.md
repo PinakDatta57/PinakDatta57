@@ -31,9 +31,9 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 ### 📫 Reach Me Out
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://pinak-portfolio.netlify.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-datta-121639417/)
-[![Facebook Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pinak.datta.16547)
-[![Gmail Badge](https://img.shields.io/badge/-bishalroy0130@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pinakdattatp@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-PinakDatta-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-datta-121639417/)
+[![Facebook Badge](https://img.shields.io/badge/-PinakDatta-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pinak.datta.16547)
+[![Gmail Badge](https://img.shields.io/badge/-pinakdattatp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pinakdattatp@gmail.com)
 
 
 
