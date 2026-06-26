@@ -17,7 +17,7 @@
 
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pinak-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-datta-121639417/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinakdatta57/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinakdattatp@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pinak.datta.16547)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801794026053)
@@ -34,7 +34,7 @@ I'm a **Full-Stack MERN Developer** who builds **scalable, production-grade web 
 - 🏆 Background in **Competitive Programming** — algorithmic thinking drives how I solve engineering problems
 - 🚀 Shipped production-level projects including **e-commerce platforms** and **internal dashboards**
 - 🌍 Explore my **[Portfolio](https://pinak-portfolio.netlify.app)** and **[Resume](./resume.pdf)**
-- 💼 Connect with me on **[LinkedIn](https://linkedin.com/in/pinak-datta-121639417)**
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/pinakdatta57/)**
 - 📧 Reach me anytime via **[Email](mailto:pinakdattatp@gmail.com)**
 
 ---
