@@ -6,7 +6,12 @@
 <br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pinak+Datta;Full-Stack+MERN+Developer;Competitive+Programmer;Clean+Code+%7C+Scalable+Apps+%7C+Great+UI%2FUX" alt="Typing SVG" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Pinak+Datta;Full-Stack+MERN+Developer;Turning+Ideas+Into+Reality;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</p>
 
 <br/><br/>
 
@@ -91,12 +96,12 @@ I'm a **Full-Stack MERN Developer** who builds **scalable, production-grade web 
 | 🌟 Project | 📝 Description | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
 | **🍲 LocalChefBazaar** | Role-based marketplace with dashboards for Users, Chefs, and Admins, secure JWT authentication, Stripe payments, analytics, and image uploads. | React • Node.js • Express • MongoDB • Firebase • JWT • Stripe • Recharts |
+| **🏠 HomeNest** | Property management platform where users can browse, add, search, review, and manage rental or sale listings securely. | React • Firebase Firestore • Firebase Auth • Tailwind CSS • MongoDB |
 | **💼 Personal Portfolio** | Dark-themed portfolio with smooth animations, typewriter hero section, animated counters, and project detail pages. | React 18 • Framer Motion • React Router v6 • CSS Modules |
-| **🏠 HomeNest** | Property management platform where users can browse, add, search, review, and manage rental or sale listings securely. | React • Firebase Firestore • Firebase Auth • Tailwind CSS |
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,0057FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,14,30&section=footer" />
 
 *"Good code is its own best documentation."*
 
