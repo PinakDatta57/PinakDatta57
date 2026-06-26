@@ -15,9 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-datta-121639417/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinakdattatp@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pinak.datta.16547)
-
-![Profile Views](https://komarev.com/ghpvc/?username=PinakDatta57&color=00FFFF&style=flat-square&label=Profile+Views)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801794026053)
 </div>
 
 ---
@@ -26,12 +24,13 @@
 
 I'm a **Full-Stack MERN Developer** who builds **scalable, production-grade web applications** with a strong focus on clean architecture and polished UI/UX.
 
-- 🔭 Currently building a **Temple Management System** — full-stack platform for scheduling, donations & member records
 - 🌱 Exploring **Next.js** for SSR/SSG patterns and modern performance optimization
 - 💡 Passionate about integrating **AI** into real-world applications
 - 🏆 Background in **Competitive Programming** — algorithmic thinking drives how I solve engineering problems
 - 🚀 Shipped production-level projects including **e-commerce platforms** and **internal dashboards**
-- 📬 Reach me at **pinakdattatp@gmail.com** — I always reply
+- 🌍 Explore my **[Portfolio](https://pinak-portfolio.netlify.app)** and **[Resume](./resume.pdf)**
+- 💼 Connect with me on **[LinkedIn](https://linkedin.com/in/pinak-datta-121639417)**
+- 📧 Reach me anytime via **[Email](mailto:pinakdattatp@gmail.com)**
 
 ---
 
@@ -89,13 +88,11 @@ I'm a **Full-Stack MERN Developer** who builds **scalable, production-grade web 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🛕 Temple Management System | Scheduling, donations & member management platform | React · Node.js · MongoDB | 🚧 In Progress |
-| 🛒 E-Commerce Platform | Full-featured online store with auth & payments | MERN · Firebase Auth | ✅ Production |
-| 📊 Internal Dashboard | Data visualization & management dashboard | React · Express · MongoDB | ✅ Production |
-
----
+| 🌟 Project | 📝 Description | 🛠️ Tech Stack |
+| :--- | :--- | :--- |
+| **🍲 LocalChefBazaar** | Role-based marketplace with dashboards for Users, Chefs, and Admins, secure JWT authentication, Stripe payments, analytics, and image uploads. | React • Node.js • Express • MongoDB • Firebase • JWT • Stripe • Recharts |
+| **💼 Personal Portfolio** | Dark-themed portfolio with smooth animations, typewriter hero section, animated counters, and project detail pages. | React 18 • Framer Motion • React Router v6 • CSS Modules |
+| **🏠 HomeNest** | Property management platform where users can browse, add, search, review, and manage rental or sale listings securely. | React • Firebase Firestore • Firebase Auth • Tailwind CSS |
 
 <div align="center">
 
