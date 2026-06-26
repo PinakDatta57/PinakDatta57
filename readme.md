@@ -1,12 +1,12 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="Bishal_Roy_banner2.png" style="width: 100%;" alt="Bishal Roy GitHub Banner">
+  <img src="PinakDattaBanner.png" style="width: 100%;" alt="Pinak Datta GitHub Banner">
 </p>
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Bishal+Roy;Full-stack+MERN+Developer;Competitive+Programmer;Passionate+about+Clean+Code+and+UI/UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Pinak+Datta;Full-stack+MERN+Developer;Competitive+Programmer;Passionate+about+Clean+Code+and+UI/UX" alt="Typing SVG" />
 </p>
 
 
