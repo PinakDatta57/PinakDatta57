@@ -13,7 +13,7 @@
 
 ---
 
-### 👋 Hi there, I'm **Bishal Roy**
+### 👋 Hi there, I'm **Pinak Datta**
 
 I'm a **web developer** with expertise in **React, Express.js, MongoDB, and Firebase Authentication (MERN stack)**.  
 I focus on building **scalable** and **user‑friendly applications** with **clean code** and **responsive UI/UX**.  
@@ -30,10 +30,10 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 
 ### 📫 Reach Me Out
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://bishalroy20.netlify.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bishalroy20/)
-[![Facebook Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bishal.roy.213382)
-[![Gmail Badge](https://img.shields.io/badge/-bishalroy0130@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bishalbondhon20@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://pinak-portfolio.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-datta-121639417/)
+[![Facebook Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pinak.datta.16547)
+[![Gmail Badge](https://img.shields.io/badge/-bishalroy0130@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pinakdattatp@gmail.com)
 
 
 
@@ -52,7 +52,7 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalroy20&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinakDatta57&theme=radical" alt="GitHub Streak" />
 </p>
 
 
