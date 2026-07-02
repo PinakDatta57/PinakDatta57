@@ -33,7 +33,7 @@ I'm a **Full-Stack MERN Developer** who builds **scalable, production-grade web 
 - 💡 Passionate about integrating **AI** into real-world applications
 - 🏆 Background in **Competitive Programming** — algorithmic thinking drives how I solve engineering problems
 - 🚀 Shipped production-level projects including **e-commerce platforms** and **internal dashboards**
-- 🌍 Explore my **[Portfolio](https://pinak-portfolio.netlify.app)** and **[Resume](./resume.pdf)**
+- 🌍 Explore my **[Portfolio](https://pinak-portfolio.netlify.app)** and **[Resume](https://drive.google.com/file/d/1WJ7-2Kko1IDDjx3NpoK_6tlPTElhvKlh/view?usp=sharing)**
 - 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/pinakdatta57/)**
 - 📧 Reach me anytime via **[Email](mailto:pinakdattatp@gmail.com)**
 
